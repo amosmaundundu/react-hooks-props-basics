@@ -11,6 +11,19 @@ function BlogPost() {
       <Comment commentText="Truth is singular. Its ‘versions’ are mistruths. - Sonmi-451" />
     </div>
   );
+  
+    
+  
+
+// function BlogPost() {
+  // return (
+  //   <div>
+  //     <BlogContent articleText="Dear Reader: Bjarne Stroustrup has the perfect lecture oration." />
+  //   </div>
+  // );
+ 
 }
+
+
 
 export default BlogPost;
